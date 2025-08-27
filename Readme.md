@@ -16,14 +16,24 @@ A simple rule-based chatbot in Python that responds to greetings, farewells, and
 
 ## Sample conversation
 🤖 Chatbot: Hello! I am a simple rule-based chatbot. Type 'bye' to exit.
+
 You: hi
+
 🤖 Chatbot: Hello! How can I help you today?
+
 You: how are you
+
 🤖 Chatbot: I'm just code, but I'm doing great! 😃
+
 You: your name
+
 🤖 Chatbot: I'm a Codmetric Rule-Based Chatbot.
+
+
 You: bye
+
 🤖 Chatbot: Goodbye! Have a nice day 👋
+
 3. How to run
 1. Clone:
    ```bash
